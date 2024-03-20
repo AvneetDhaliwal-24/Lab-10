@@ -1,0 +1,13 @@
+.textarea_CSS {
+    resize: none;
+  }
+  
+  .bodyCSS{
+    background-color: black;
+  }
+
+ /* Custom Css for bootstrap active class to set the color of active link */
+ .customActiveLink{
+    color: red;
+ }
+
